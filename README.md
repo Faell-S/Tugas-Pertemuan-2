@@ -3,7 +3,8 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-<img width="499" height="681" alt="Screenshot 2026-03-13 164001" src="https://github.com/user-attachments/assets/9e1f31b3-e728-44b5-bad6-516990fd0551" />
+![Card Name](https://github.com/user-attachments/assets/3fdca0e4-6a72-4aa3-ad74-2e74910b6330)
+
 
 
 ## 🛠️ Tech Stack
